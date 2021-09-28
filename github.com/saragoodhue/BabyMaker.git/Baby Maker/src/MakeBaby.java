@@ -7,7 +7,7 @@ public class MakeBaby
 				System.out.println("Kaitlyn's baby is named " + kaitlynsBaby.name);
 				kaitlynsBaby.cry();
 				
-				System.out.println("Test!");
+				System.out.println("Test not working!");
 				Baby firstBaby = new Baby("Connor", 8.2, false);
 				System.out.println("My first baby weighs " + firstBaby.weight);
 				
